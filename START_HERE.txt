@@ -1,0 +1,29 @@
+Onsite Heating Pro — v1 (Alpha) Quick Start (Windows)
+
+This is a portfolio demo app. It runs locally and stores data in your browser (IndexedDB).
+
+Developer mode:
+1) Open this folder in VS Code
+2) Run:
+   npm install
+   npm run dev
+3) Open the URL printed in the terminal (usually http://localhost:5173)
+
+Production preview:
+1) Run:
+   npm install
+   npm run build
+   npm run preview
+2) Open the preview URL (often http://127.0.0.1:4173)
+
+Demo accounts:
+- Admin:      rania@onsiteheating.com / admin123
+- Technician: tech@onsiteheating.com / tech123
+- Customer:   customer@example.com / cust123
+
+Useful pages:
+- Dispatch board: /app/dispatch
+- Jobs / Work orders: /app/jobs
+- Invoices: /app/invoices
+- Operations: /app/operations
+- Settings (reset / backup): /app/settings
